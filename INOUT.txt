@@ -1,0 +1,19 @@
+PH01
+4/6/2018
+NCC01
+CTY van phu
+ha noi
+091212
+3
+SP01
+giay
+100
+70
+SP02
+but
+50
+10
+SP03
+tui
+60
+5
